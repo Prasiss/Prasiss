@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # <h3>💫 About Me:</h3>
-I am currently exploring coding and would love to work wth you in different projects. <br>I am currently learning coding. Particullarly in Web -Development using node js and React js
-
+Hi, I'm Prasiss! I'm a passionate learner currently diving into web development with a focus on Node.js and React.js. Alongside coding, I'm also exploring the world of design, learning tools like Photoshop and Illustrator to build visually engaging experiences.
+I love turning ideas into real-world projects and constantly expanding my skill set. I'm always open to collaboration, whether it's on web apps, creative designs, or anything that helps me grow and contribute.
+Let's build something awesome together!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prasim.basnet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/assassin_e96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasimbasnet096) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasimbasnet@gmail.com) 
