@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-Hi I am currently exploring coding and would love to work wth you in different projects. <br>I am currently learning coding. Particullarly in Web -Development using node js and React js
+# 💫 About Me:I am currently exploring coding and would love to work wth you in different projects. <br>I am currently learning coding. Particullarly in Web -Development using node js and React js
 
 
 ## 🌐 Socials:
