@@ -1,4 +1,4 @@
-## <h1>Hi 👋I am Prasim Basnet </h1>
+## <h1>Hi 👋I am Prasim Basnet! </h1>
 
 <!--
 **Prasiss/Prasiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # <h3>💫 About Me:</h3>
-Hi, I'm Prasiss! I'm a passionate learner currently diving into web development with a focus on Node.js and React.js. Alongside coding, I'm also exploring the world of design, learning tools like Photoshop and Illustrator to build visually engaging experiences.
-I love turning ideas into real-world projects and constantly expanding my skill set. I'm always open to collaboration, whether it's on web apps, creative designs, or anything that helps me grow and contribute.
+I'm a passionate learner currently diving into web development with a focus on Node.js and React.js. Alongside coding, I'm also exploring the world of design, learning tools like Photoshop and Illustrator to build visually engaging experiences.<br>
+I love turning ideas into real-world projects and constantly expanding my skill set. I'm always open to collaboration, whether it's on web apps, creative designs, or anything that helps me grow and contribute.<br>
 Let's build something awesome together!
 
 ## 🌐 Socials:
