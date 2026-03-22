@@ -12,7 +12,7 @@ I enjoy building useful applications and transforming ideas into practical proje
 🚀 I believe in continuous learning, building real projects, and contributing to open source.
 
 - 🔭 Currently working on **Web Development Projects**
-- 🌱 Currently learning **React.js, Node.js, and Open Source Contribution**
+- 🌱 Currently learning **Django, and Open Source Contribution**
 - 👯 Looking to collaborate on **Web Apps and Open Source Projects**
 - 💡 Interested in **Full Stack Development and Creative Design**
 - ⚡ Fun fact: I enjoy **coding, basketball, and exploring new technologies**
